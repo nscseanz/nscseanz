@@ -13,7 +13,7 @@
                 ng-click="__multiselectCallback()">Done</button>
         </div>
     </ion-header-bar>
-    <ion-nav-bar align-title="" class="bar-stable" data-comp-id="nav-bar.1">
+    <ion-nav-bar align-title="" class=" bar-assertive" data-comp-id="nav-bar.1">
         <ion-nav-buttons side="left">
             <button class="button button-icon ion-navicon" data-comp-id="button.3"></button>
         </ion-nav-buttons>
@@ -27,5 +27,22 @@
             ng-repeat="item in __multiselectModalData.options" style="font-size:14px">
             {{item.label || '&nbsp;'}}
         </ion-checkbox>
+        <div data-comp-id="div.1">
+            <div class="card" data-comp-display="card.1" data-comp-id="div.2">
+                <div class="row" data-comp-id="row.1">
+                    <div class="col" data-comp-id="column.2">
+                        <div data-comp-id="text.2">ID</div>
+                    </div>
+                    <div class="col" data-comp-id="column.1">
+                        <div data-comp-id="text.3">Status</div>
+                    </div>
+                </div>
+                <div class="row" data-comp-id="row.2">
+                    <div class="col" data-comp-id="column.3">
+                        <div data-comp-id="text.4">Summary</div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </ion-content>
 </ion-view>
