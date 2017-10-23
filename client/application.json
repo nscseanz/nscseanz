@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "4af3403d",
   "uiCommonVersion": "5.2.1",
-  "creatorId": "nscseanz"
+  "creatorId": "nscseanz",
+  "id": "nscseanz",
+  "previewImageURL": "/previews/4af3403d-nscseanz/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/nscseanz/nscseanz",
+  "creatorName": "Sean Zhang",
+  "sdks": []
 }
