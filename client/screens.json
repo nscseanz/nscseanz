@@ -38,7 +38,8 @@
       "id": "issuselist",
       "name": "IssuseList",
       "sourceScreenId": "app.multiselect",
-      "sourceAppId": "_blank"
+      "sourceAppId": "_blank",
+      "model": "issuselist"
     }
   ],
   "sourceAppId": "_blank",
