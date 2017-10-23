@@ -57,5 +57,18 @@
         "type": "string"
       }
     }
+  },
+  "issuselist": {
+    "type": "object",
+    "comment": "IssuseList",
+    "properties": {
+      "IssuseList": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {}
+        }
+      }
+    }
   }
 }
