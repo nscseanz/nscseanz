@@ -33,6 +33,12 @@
       "name": "ViewIssues",
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank"
+    },
+    {
+      "id": "issuselist",
+      "name": "IssuseList",
+      "sourceScreenId": "app.multiselect",
+      "sourceAppId": "_blank"
     }
   ],
   "sourceAppId": "_blank",

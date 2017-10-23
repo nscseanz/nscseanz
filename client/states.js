@@ -51,5 +51,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.issuselist', {
+        views: {
+            app: {
+                controller: 'app_issuselist',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.issuselist');
+                }
+            }
+        }
     });
 });
