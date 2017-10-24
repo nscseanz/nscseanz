@@ -13,7 +13,7 @@
               "type": "none"
             },
             "selector": "td",
-            "control": "text"
+            "control": "property.innerText"
           },
           "Status": {
             "type": "string",
