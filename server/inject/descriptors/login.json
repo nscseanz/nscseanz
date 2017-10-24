@@ -45,6 +45,11 @@
       },
       "selector": ".button",
       "control": "attrib.onclick"
+    },
+    "islogin": {
+      "type": "identifier",
+      "selector": ".button[value=\"login\"]",
+      "control": "property.innerText"
     }
   },
   "connect": []
