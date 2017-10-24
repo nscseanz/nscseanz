@@ -45,5 +45,6 @@
       }
     }
   },
-  "connect": []
+  "connect": [],
+  "selector": ".button"
 }
