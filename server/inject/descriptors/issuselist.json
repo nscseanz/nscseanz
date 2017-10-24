@@ -45,7 +45,7 @@
       "update": {
         "type": "none"
       },
-      "selectorAll": "#buglist tbody tr[bgcolor='#fcbdbd']"
+      "selectorAll": "#buglist tbody tr[bgcolor]"
     },
     "IsViewIssues": {
       "type": "identifier",
