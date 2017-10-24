@@ -12,20 +12,22 @@
             "update": {
               "type": "none"
             },
-            "selector": "td[href*=‘mantisbt’]",
+            "selector": "td",
             "control": "property.innerText"
           },
           "Status": {
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selector": "td"
           },
           "Summary": {
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selector": "td"
           }
         }
       },
