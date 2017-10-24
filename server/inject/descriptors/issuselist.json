@@ -12,7 +12,7 @@
             "update": {
               "type": "none"
             },
-            "selector": "td",
+            "selector": "td[*href='']",
             "control": "property.innerText"
           },
           "Status": {
