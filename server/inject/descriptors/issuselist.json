@@ -27,7 +27,7 @@
             "update": {
               "type": "none"
             },
-            "selector": "[class='left']"
+            "selector": ".left"
           }
         }
       },
