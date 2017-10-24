@@ -26,8 +26,9 @@
             },
             "selector": {
               "fn": "span",
-              "selector": ".issue-status"
-            }
+              "selector": "td"
+            },
+            "selectIndex": 9
           },
           "Summary": {
             "type": "string",
