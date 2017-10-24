@@ -18,6 +18,7 @@
     {
       "match": [
         "ismyview",
+        "ismyview",
         "ismyview"
       ],
       "action": "viewissueslink",
