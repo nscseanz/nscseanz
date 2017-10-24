@@ -27,7 +27,7 @@
             "update": {
               "type": "none"
             },
-            "selector": "td[class='left']"
+            "selector": "[class='left']"
           }
         }
       },
