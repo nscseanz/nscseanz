@@ -20,7 +20,7 @@
             "update": {
               "type": "none"
             },
-            "selector": ",span .issue-statu"
+            "selector": ",span .issue-status"
           },
           "Summary": {
             "type": "string",
