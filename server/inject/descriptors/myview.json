@@ -10,7 +10,6 @@
     "viewissueslink": {
       "type": "action",
       "control": "action.link",
-      "selectContains": "Assigned to Me",
       "selector": "a[href='/mantisbt/view_all_bug_page.php']"
     }
   },
