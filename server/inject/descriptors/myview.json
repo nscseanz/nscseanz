@@ -10,7 +10,7 @@
     "viewissueslink": {
       "type": "action",
       "selector": "a",
-      "control": "property.innerText",
+      "control": "exists",
       "selectContains": "Assigned to Me"
     }
   },
