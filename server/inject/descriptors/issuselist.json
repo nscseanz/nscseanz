@@ -20,14 +20,14 @@
             "update": {
               "type": "none"
             },
-            "selector": ".issue-status"
+            "selector": "span .issue-status"
           },
           "Summary": {
             "type": "string",
             "update": {
               "type": "none"
             },
-            "selector": ".left"
+            "selector": ".issue-status"
           }
         }
       },
