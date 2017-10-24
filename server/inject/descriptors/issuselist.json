@@ -30,6 +30,12 @@
       "update": {
         "type": "none"
       }
+    },
+    "IsViewIssues": {
+      "type": "identifier",
+      "selector": "body",
+      "control": "exists",
+      "selectContains": "Viewing issues"
     }
   },
   "connect": []
