@@ -3,9 +3,9 @@
   "properties": {
     "ismyview": {
       "type": "identifier",
-      "selector": "[name=\"password\"]",
       "control": "exists",
-      "selectContains": "Assign to Me"
+      "selectContains": "Assign to Me",
+      "selector": ".subtle[href='view_all_set.php?type=1&amp;temporary=y&amp;handler_id=1&amp;hide_status=80']"
     },
     "viewissueslink": {
       "type": "action",
