@@ -10,7 +10,7 @@
     "viewissueslink": {
       "type": "action",
       "selector": "a",
-      "control": "exists",
+      "control": "action.link",
       "selectContains": "Assigned to Me"
     }
   },
