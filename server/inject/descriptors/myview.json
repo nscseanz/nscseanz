@@ -4,7 +4,8 @@
     "ismyview": {
       "type": "identifier",
       "selector": "[name=\"password\"]",
-      "control": "exists"
+      "control": "exists",
+      "selectContains": "Assign to Me"
     },
     "viewissueslink": {
       "type": "action",
