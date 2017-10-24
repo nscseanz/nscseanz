@@ -12,7 +12,10 @@
             "update": {
               "type": "none"
             },
-            "selector": "a[href*=\"mantisbt\"]",
+            "selector": {
+              "fn": "td",
+              "selector": "a[href*=\"mantisbt\"]"
+            },
             "control": "property.innerText"
           },
           "Status": {
