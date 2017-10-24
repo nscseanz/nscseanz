@@ -10,7 +10,8 @@
     "viewissueslink": {
       "type": "action",
       "control": "action.link",
-      "selector": "a[href='/mantisbt/view_all_bug_page.php']"
+      "selector": "a[href='/mantisbt/view_all_bug_page.php']",
+      "selectContains": "Viewiusses list"
     }
   },
   "connect": []
