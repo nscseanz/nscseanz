@@ -29,7 +29,8 @@
       },
       "update": {
         "type": "none"
-      }
+      },
+      "selectorAll": "#buglist tbody tr td"
     },
     "IsViewIssues": {
       "type": "identifier",
