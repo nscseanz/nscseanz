@@ -8,8 +8,9 @@
     },
     "viewissueslink": {
       "type": "action",
-      "selector": "[name=\"password\"]",
-      "control": "property.innerText"
+      "selector": "a",
+      "control": "property.innerText",
+      "selectContains": "Assigned to Me"
     }
   },
   "connect": []
