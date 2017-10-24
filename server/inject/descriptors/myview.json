@@ -14,5 +14,12 @@
       "selectContains": "Viewissues list"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "ismyview"
+      ],
+      "action": "viewissueslink"
+    }
+  ]
 }
