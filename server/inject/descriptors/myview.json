@@ -17,9 +17,11 @@
   "connect": [
     {
       "match": [
+        "ismyview",
         "ismyview"
       ],
-      "action": "viewissueslink"
+      "action": "viewissueslink",
+      "model": "issuselist"
     }
   ]
 }
