@@ -28,7 +28,8 @@
               "fn": "span",
               "selector": "td"
             },
-            "selectIndex": 9
+            "selectIndex": 9,
+            "control": "property.innerText"
           },
           "Summary": {
             "type": "string",
