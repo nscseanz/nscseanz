@@ -54,5 +54,6 @@
       "selectContains": "Viewing issues"
     }
   },
-  "connect": []
+  "connect": [],
+  "selector": "#buglist tbody tr[bgcolor='#fcbdbd']"
 }
