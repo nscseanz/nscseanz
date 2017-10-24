@@ -4,7 +4,7 @@
     "ismyview": {
       "type": "identifier",
       "control": "exists",
-      "selectContains": "Assign to Me",
+      "selectContains": "Assigned to Me",
       "selector": ".subtle[href='view_all_set.php?type=1&amp;temporary=y&amp;handler_id=1&amp;hide_status=80']"
     },
     "viewissueslink": {
