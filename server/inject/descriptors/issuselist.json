@@ -12,7 +12,7 @@
             "update": {
               "type": "none"
             },
-            "selector": "a",
+            "selector": "a[href*='/mantisbt/view.php?id']",
             "control": "property.innerText"
           },
           "Status": {
