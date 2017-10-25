@@ -46,6 +46,12 @@
       "selector": ".floatleft",
       "control": "exists",
       "selectContains": "Viewing issues"
+    },
+    "IsReportIssue": {
+      "type": "identifier",
+      "selector": ".floatleft",
+      "control": "property.innerText",
+      "selectContains": "Report Issue"
     }
   },
   "connect": [
