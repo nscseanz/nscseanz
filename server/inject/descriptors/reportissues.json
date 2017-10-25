@@ -3,11 +3,11 @@
   "properties": {
     "issuselist": {
       "type": "select",
-      "control": "property.id",
       "frameSelector": [
         null
       ],
-      "selector": "[name='category_id']"
+      "selector": "[name=\"category_id\"]",
+      "control": "select"
     },
     "isreportissues": {
       "type": "identifier",
