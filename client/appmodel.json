@@ -96,8 +96,13 @@
   "reportissues": {
     "type": "object",
     "properties": {
-      "CategoryList": {
-        "type": "select"
+      "reportissues": {
+        "type": "object",
+        "properties": {
+          "CategoryList": {
+            "type": "select"
+          }
+        }
       }
     }
   }
