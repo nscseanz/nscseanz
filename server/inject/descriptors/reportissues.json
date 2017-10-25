@@ -4,7 +4,7 @@
     "issuselist": {
       "type": "select",
       "selector": "[name=\"category_id\"]",
-      "control": "property.innerText",
+      "control": "property.id",
       "frameSelector": [
         null
       ]
