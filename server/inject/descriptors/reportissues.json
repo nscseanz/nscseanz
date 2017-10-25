@@ -1,22 +1,15 @@
 {
   "type": "object",
   "properties": {
-    "issuselist": {
-      "type": "select",
-      "frameSelector": [
-        null
-      ],
-      "selector": "[name=\"category_id\"]",
-      "control": "select"
-    },
     "isreportissues": {
       "type": "identifier",
       "selector": ".floatleft",
       "control": "exists",
       "selectContains": "Report Issue"
     },
-    "Description": {
-      "type": "string",
+    "categoryList": {
+      "type": "select",
+      "selector": "[name=\"category_id\"]",
       "control": "select"
     }
   },
