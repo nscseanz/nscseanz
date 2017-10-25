@@ -58,6 +58,12 @@
     {
       "match": [],
       "action": "ReportIssuesLink"
+    },
+    {
+      "match": [],
+      "screens": [
+        "issuselist"
+      ]
     }
   ]
 }
