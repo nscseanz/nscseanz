@@ -3,20 +3,20 @@
     "CategoryList": {
       "options": [
         {
-          "label": "1",
+          "label": "6",
           "value": "1"
         },
         {
-          "label": "2",
+          "label": "7",
           "value": "2"
         },
         {
-          "label": "3",
+          "label": "8",
           "value": "3"
         }
       ],
       "selected": {
-        "label": "1",
+        "label": "6",
         "value": "1"
       }
     }
