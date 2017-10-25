@@ -47,10 +47,11 @@
       "control": "exists",
       "selectContains": "Viewing issues"
     },
-    "IsReportIssue": {
+    "reportissuelink": {
       "type": "action",
-      "selector": ".button[value='Submit Report']",
-      "control": "action.button"
+      "selector": "a",
+      "control": "action.button",
+      "selectContains": "Report Issue"
     }
   },
   "connect": [
