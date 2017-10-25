@@ -99,14 +99,6 @@
   "reportissues": {
     "type": "object",
     "properties": {
-      "reportissues": {
-        "type": "object",
-        "properties": {
-          "CategoryList": {
-            "type": "select"
-          }
-        }
-      },
       "CategoryList": {
         "type": "select"
       },
