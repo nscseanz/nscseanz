@@ -14,6 +14,11 @@
       "selector": ".floatleft",
       "control": "exists",
       "selectContains": "Report Issue"
+    },
+    "Description": {
+      "type": "select",
+      "selector": "[name=\"category_id\"]",
+      "control": "select"
     }
   },
   "connect": [
