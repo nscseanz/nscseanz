@@ -64,7 +64,8 @@
     },
     {
       "match": [],
-      "action": "reportissuselink"
+      "action": "reportissuselink",
+      "model": "issuselist"
     }
   ]
 }
