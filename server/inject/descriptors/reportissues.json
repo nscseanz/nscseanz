@@ -16,9 +16,8 @@
       "selectContains": "Report Issue"
     },
     "Description": {
-      "type": "select",
-      "selector": "[name=\"category_id\"]",
-      "control": "select"
+      "type": "string",
+      "control": "property.innerText"
     }
   },
   "connect": [
