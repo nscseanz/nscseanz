@@ -4,7 +4,6 @@
     "isreportissues": {
       "type": "identifier",
       "control": "exists",
-      "selectContains": "Report Issue",
       "selector": ".button[value=\"Submit Report\"]"
     },
     "CategoryList": {
