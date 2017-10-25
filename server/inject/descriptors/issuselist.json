@@ -47,7 +47,7 @@
       "control": "exists",
       "selectContains": "Viewing issues"
     },
-    "reportissueslink": {
+    "reportissuselink": {
       "type": "action",
       "selector": "a[href='/mantisbt/bug_report_page.php']",
       "control": "action.link"
