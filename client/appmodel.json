@@ -92,5 +92,14 @@
         }
       }
     }
+  },
+  "namelist": {
+    "type": "object",
+    "comment": "namelist",
+    "properties": {
+      "Name": {
+        "type": "select"
+      }
+    }
   }
 }
