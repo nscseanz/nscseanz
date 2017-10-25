@@ -17,7 +17,7 @@
     },
     "Description": {
       "type": "string",
-      "control": "property.innerText"
+      "control": "select"
     }
   },
   "connect": [
