@@ -8,8 +8,9 @@
     },
     "isreportissues": {
       "type": "identifier",
-      "selector": "[name=\"category_id\"]",
-      "control": "select"
+      "selector": ".floatleft",
+      "control": "select",
+      "selectContains": "Report Issue"
     }
   },
   "connect": [
