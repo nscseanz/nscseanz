@@ -41,6 +41,12 @@
       "sourceScreenId": "app.multiselect",
       "sourceAppId": "_blank",
       "model": "issuselist"
+    },
+    {
+      "id": "namelist",
+      "name": "NameList",
+      "sourceScreenId": "app.blank",
+      "sourceAppId": "_blank"
     }
   ],
   "sourceAppId": "_blank",
