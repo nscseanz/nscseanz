@@ -106,6 +106,12 @@
             "type": "select"
           }
         }
+      },
+      "CategoryList": {
+        "type": "select"
+      },
+      "Description": {
+        "type": "string"
       }
     }
   }
