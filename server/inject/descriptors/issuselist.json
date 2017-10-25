@@ -50,7 +50,7 @@
     "IsReportIssue": {
       "type": "identifier",
       "selector": ".floatleft",
-      "control": "property.innerText",
+      "control": "action.button",
       "selectContains": "Report Issue"
     }
   },
