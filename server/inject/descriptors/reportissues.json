@@ -5,6 +5,11 @@
       "type": "select",
       "selector": "[name=\"category_id\"]",
       "control": "select"
+    },
+    "isreportissues": {
+      "type": "identifier",
+      "selector": "[name=\"category_id\"]",
+      "control": "select"
     }
   },
   "connect": [
