@@ -12,6 +12,11 @@
       "selector": "[name=\"category_id\"]",
       "control": "select",
       "selectIndex": 3
+    },
+    "Description": {
+      "type": "string",
+      "selector": ".button",
+      "control": "action.button"
     }
   },
   "connect": [
