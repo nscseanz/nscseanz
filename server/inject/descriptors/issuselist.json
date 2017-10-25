@@ -56,14 +56,6 @@
   },
   "connect": [
     {
-      "match": [
-        "IsViewIssues"
-      ],
-      "screens": [
-        "issuselist"
-      ]
-    },
-    {
       "match": [],
       "action": "ReportIssuesLink"
     }
