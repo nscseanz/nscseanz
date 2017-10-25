@@ -93,11 +93,11 @@
       }
     }
   },
-  "namelist": {
+  "reportissues": {
     "type": "object",
-    "comment": "namelist",
+    "comment": "reportissues",
     "properties": {
-      "Name": {
+      "Catagory": {
         "type": "select",
         "update": {
           "type": "none"
