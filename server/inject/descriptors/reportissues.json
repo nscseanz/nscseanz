@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "properties": {
+    "issuselist": {
+      "type": "select",
+      "selector": "[name=\"category_id\"]",
+      "control": "action.link"
+    }
+  },
+  "connect": [
+    {
+      "match": [],
+      "screens": [
+        "reportissues"
+      ]
+    }
+  ]
+}
