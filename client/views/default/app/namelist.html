@@ -12,7 +12,8 @@
         <label class="item  item-input item-select-icon positive-icon"
             data-comp-id="selectInput.1">
             <span class="input-label">Catagory</span>
-            <select></select>
+            <select ng-model="data.Name.selected"
+                ng-options="item as item.label for item in data.Name.options"></select>
         </label>
     </ion-content>
 </ion-view>
