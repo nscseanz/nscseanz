@@ -104,6 +104,9 @@
       },
       "Description": {
         "type": "string"
+      },
+      "submitreport": {
+        "type": "action"
       }
     }
   }
