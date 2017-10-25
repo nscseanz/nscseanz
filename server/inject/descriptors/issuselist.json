@@ -62,6 +62,10 @@
       "screens": [
         "issuselist"
       ]
+    },
+    {
+      "match": [],
+      "action": "ReportIssuesLink"
     }
   ]
 }
