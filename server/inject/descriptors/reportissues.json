@@ -9,8 +9,7 @@
     "CategoryList": {
       "type": "select",
       "selector": "[name=\"category_id\"]",
-      "control": "select",
-      "selectIndex": 3
+      "control": "select"
     },
     "Description": {
       "type": "string",
