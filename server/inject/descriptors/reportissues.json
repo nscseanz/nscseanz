@@ -15,6 +15,11 @@
       "type": "string",
       "selector": ".button",
       "control": "action.button"
+    },
+    "submitreport": {
+      "type": "action",
+      "selector": ".button[value=\"Submit Report\"]",
+      "control": "action.button"
     }
   },
   "connect": [
