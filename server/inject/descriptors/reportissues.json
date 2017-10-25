@@ -4,7 +4,7 @@
     "issuselist": {
       "type": "select",
       "selector": "[name=\"category_id\"]",
-      "control": "action.link"
+      "control": "select"
     }
   },
   "connect": [
