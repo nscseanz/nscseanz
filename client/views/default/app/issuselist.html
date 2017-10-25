@@ -1,13 +1,16 @@
 <ion-view data-comp-id="ionic-view.1">
-    <ion-header-bar class=" bar-positive" data-comp-id="header-bar.1" ng-class="headerClass">
+    <ion-header-bar class=" bar-positive" data-comp-id="header-bar.1"
+        ng-class="headerClass">
         <div class="buttons">
-            <button class="button button-clear" data-comp-id="button.1" ng-click="__cancelCallback()">
+            <button class="button button-clear" data-comp-id="button.1"
+                ng-click="__cancelCallback()">
                 Cancel
             </button>
         </div>
         <h1 class="title" data-comp-id="text.1">{{__modalTitle ? __modalTitle : 'Multi Select'}}</h1>
         <div class="buttons">
-            <button class="button button-clear icon" data-comp-id="button.2" ng-click="__multiselectCallback()">Done</button>
+            <button class="button button-clear icon" data-comp-id="button.2"
+                ng-click="__multiselectCallback()">Done</button>
         </div>
     </ion-header-bar>
     <ion-nav-bar align-title="" class=" bar-assertive" data-comp-id="nav-bar.1">
@@ -20,12 +23,15 @@
         </ion-nav-buttons>
     </ion-nav-bar>
     <ion-content data-comp-id="ionic-content.1">
-        <ion-checkbox class="" data-comp-id="checkbox.1" ng-model="item.selected" ng-repeat="item in __multiselectModalData.options" style="font-size:14px">
+        <ion-checkbox class="" data-comp-id="checkbox.1" ng-model="item.selected"
+            ng-repeat="item in __multiselectModalData.options" style="font-size:14px">
             {{item.label || '&nbsp;'}}
         </ion-checkbox>
         <div class=" card" data-comp-id="div.1" ng-repeat="item in data.IssuseList">
-            <div class="row" data-comp-id="row.1" style="border-right: solid rgb(126, 125, 244);">
-                <div class="col" data-comp-id="column.1" style="border-right: solid rgb(126, 125, 244);">
+            <div class="row" data-comp-id="row.1"
+                style="border-right: solid rgb(126, 125, 244);">
+                <div class="col" data-comp-id="column.1"
+                    style="border-right: solid rgb(126, 125, 244);">
                     <div data-comp-id="text.2" ng-bind="item.ID">ID</div>
                 </div>
                 <div class="col" data-comp-id="column.2">
@@ -39,11 +45,13 @@
             </div>
         </div>
     </ion-content>
-    <div class="footer-button-bar" data-comp-id="footer-bar-buttons.1" dynamic-floating-footer="">
+    <div class="footer-button-bar" data-comp-id="footer-bar-buttons.1"
+        dynamic-floating-footer="">
         <div class="row" data-comp-id="row.3" style="padding: 0px;">
             <div class="col text-center" data-comp-id="column.4" style="padding: 0px;">
                 <div class="footer-button" data-comp-id="footerButton.1">
-                    <button class="button icon button-round button-shadowed ion-plus-round" ng-click="app.action('issuselist', 'reportissueslink', this)"></button>
+                    <button class="button icon button-round button-shadowed ion-plus-round"
+                        ng-click="app.action('issuselist', 'reportissuselink', this)"></button>
                     <div class="label"></div>
                 </div>
             </div>
