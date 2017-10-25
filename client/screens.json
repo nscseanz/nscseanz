@@ -46,7 +46,8 @@
       "id": "namelist",
       "name": "NameList",
       "sourceScreenId": "app.blank",
-      "sourceAppId": "_blank"
+      "sourceAppId": "_blank",
+      "model": "namelist"
     }
   ],
   "sourceAppId": "_blank",
