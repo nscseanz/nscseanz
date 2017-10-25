@@ -47,7 +47,7 @@
       "name": "NameList",
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
-      "model": "namelist"
+      "model": "reportissues"
     }
   ],
   "sourceAppId": "_blank",
