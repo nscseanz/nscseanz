@@ -3,9 +3,9 @@
   "properties": {
     "isreportissues": {
       "type": "identifier",
-      "selector": ".floatleft",
       "control": "exists",
-      "selectContains": "Report Issue"
+      "selectContains": "Report Issue",
+      "selector": ".button[value=\"Submit Report\"]"
     },
     "CategoryList": {
       "type": "select",
