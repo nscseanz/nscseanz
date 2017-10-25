@@ -60,7 +60,8 @@
       ],
       "screens": [
         "issuselist"
-      ]
+      ],
+      "model": "issuselist"
     },
     {
       "match": [],
