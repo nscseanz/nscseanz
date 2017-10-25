@@ -3,7 +3,6 @@
   "properties": {
     "issuselist": {
       "type": "select",
-      "selector": "name=\"category_id\"",
       "control": "property.id",
       "frameSelector": [
         null
