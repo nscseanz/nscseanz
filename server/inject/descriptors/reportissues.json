@@ -10,10 +10,7 @@
     "CategoryList": {
       "type": "select",
       "selector": "[name=\"category_id\"]",
-      "control": {
-        "fn": "function(params){return 'aaaa'}",
-        "control": "select"
-      }
+      "control": "select"
     }
   },
   "connect": [
