@@ -12,14 +12,14 @@
         <div class="row" data-comp-id="row.1">
             <div class="col" data-comp-id="column.1">
                 <select-list data-comp-id="selectList.1" label-class=" required"
-                    ng-model="data.reportissues.CategoryList">Catagory</select-list>
+                    ng-model="data.CategoryList">Catagory</select-list>
             </div>
         </div>
         <div class="row" data-comp-id="row.2">
             <div class="col" data-comp-id="column.2">
                 <label class="item item-input" data-comp-id="textInput.1">
                     <span class="input-label required">Descrtipion</span>
-                    <input type="text">
+                    <input ng-model="data.Description" type="text">
                 </label>
             </div>
         </div>
