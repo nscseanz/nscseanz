@@ -96,7 +96,7 @@
   "reportissue": {
     "type": "object",
     "properties": {
-      "Catagory": {
+      "Category": {
         "type": "select",
         "update": {
           "type": "none"
