@@ -93,19 +93,12 @@
       }
     }
   },
-  "reportissue": {
-    "type": "object",
-    "properties": {
-      "Category": {
-        "type": "select",
-        "update": {
-          "type": "none"
-        }
-      }
-    }
-  },
   "reportissues": {
     "type": "object",
-    "properties": {}
+    "properties": {
+      "CategoryList": {
+        "type": "select"
+      }
+    }
   }
 }
