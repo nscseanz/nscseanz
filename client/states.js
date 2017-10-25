@@ -60,12 +60,12 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.namelist', {
+    }).state('app.reportissues', {
         views: {
             app: {
-                controller: 'app_namelist',
+                controller: 'app_reportissues',
                 templateProvider: function (app) {
-                    return app.templateProvider('app.namelist');
+                    return app.templateProvider('app.reportissues');
                 }
             }
         }

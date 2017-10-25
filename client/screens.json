@@ -43,8 +43,8 @@
       "model": "issuselist"
     },
     {
-      "id": "namelist",
-      "name": "NameList",
+      "id": "reportissues",
+      "name": "ReportIssues",
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
       "model": "reportissues"
