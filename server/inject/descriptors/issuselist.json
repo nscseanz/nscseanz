@@ -64,7 +64,7 @@
     },
     {
       "match": [],
-      "action": "reportissueslink"
+      "action": "reportissuselink"
     }
   ]
 }
