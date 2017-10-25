@@ -90,9 +90,6 @@
         "update": {
           "type": "none"
         }
-      },
-      "reportissuselink": {
-        "type": "action"
       }
     }
   },
