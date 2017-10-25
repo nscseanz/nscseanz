@@ -6,7 +6,8 @@
       "control": "property.id",
       "frameSelector": [
         null
-      ]
+      ],
+      "selector": "[name=\"category_id\"]"
     },
     "isreportissues": {
       "type": "identifier",
