@@ -29,13 +29,6 @@
       "model": "login"
     },
     {
-      "id": "viewissues",
-      "name": "ViewIssues",
-      "sourceScreenId": "app.blank",
-      "sourceAppId": "_blank",
-      "model": "login"
-    },
-    {
       "id": "issuselist",
       "name": "IssuseList",
       "sourceScreenId": "app.multiselect",
