@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "properties": {
+    "isreportissues": {
+      "type": "string",
+      "selector": "body",
+      "control": "property.innerText",
+      "selectContains": "Report Issue"
+    }
+  },
+  "connect": []
+}
