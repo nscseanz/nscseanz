@@ -93,9 +93,8 @@
       }
     }
   },
-  "reportissues": {
+  "reportissue": {
     "type": "object",
-    "comment": "reportissues",
     "properties": {
       "Catagory": {
         "type": "select",
