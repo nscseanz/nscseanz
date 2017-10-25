@@ -47,10 +47,10 @@
       "control": "exists",
       "selectContains": "Viewing issues"
     },
-    "reportissuelink": {
+    "ReportIssuesLink": {
       "type": "action",
       "selector": "a",
-      "control": "action.button",
+      "control": "action.link",
       "selectContains": "Report Issue"
     }
   },
