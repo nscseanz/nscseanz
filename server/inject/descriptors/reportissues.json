@@ -4,7 +4,10 @@
     "issuselist": {
       "type": "select",
       "selector": "[name=\"category_id\"]",
-      "control": "select"
+      "control": "select",
+      "frameSelector": [
+        null
+      ]
     },
     "isreportissues": {
       "type": "identifier",
