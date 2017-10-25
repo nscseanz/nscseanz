@@ -11,7 +11,7 @@
       "type": "select",
       "selector": "[name=\"category_id\"]",
       "control": "select",
-      "selectIndex": 1
+      "selectIndex": 3
     }
   },
   "connect": [
