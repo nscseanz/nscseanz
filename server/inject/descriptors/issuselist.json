@@ -46,12 +46,6 @@
       "selector": ".floatleft",
       "control": "exists",
       "selectContains": "Viewing issues"
-    },
-    "ReportIssuesLink": {
-      "type": "action",
-      "selector": "a",
-      "control": "action.link",
-      "selectContains": "Report Issue"
     }
   },
   "connect": [
