@@ -1,1 +1,22 @@
-{}
+{
+  "Name": {
+    "options": [
+      {
+        "label": "Ellen",
+        "value": "Ellen"
+      },
+      {
+        "label": "Sean",
+        "value": "Sean"
+      },
+      {
+        "label": "Neo",
+        "value": "Neo"
+      }
+    ],
+    "selected": {
+      "label": "Ellen",
+      "value": "Ellen"
+    }
+  }
+}

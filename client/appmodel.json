@@ -98,7 +98,10 @@
     "comment": "namelist",
     "properties": {
       "Name": {
-        "type": "select"
+        "type": "select",
+        "update": {
+          "type": "none"
+        }
       }
     }
   }
