@@ -6,7 +6,7 @@
       "frameSelector": [
         null
       ],
-      "selector": "[name='category_id']",
+      "selector": "[name=\"category_id\"]",
       "control": "select"
     },
     "isreportissues": {
