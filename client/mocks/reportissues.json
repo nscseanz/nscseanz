@@ -1,20 +1,7 @@
 {
   "reportissues": {
     "CategoryList": {
-      "options": [
-        {
-          "label": "6",
-          "value": "1"
-        },
-        {
-          "label": "7",
-          "value": "2"
-        },
-        {
-          "label": "8",
-          "value": "3"
-        }
-      ],
+      "options": [],
       "selected": {
         "label": "6",
         "value": "1"

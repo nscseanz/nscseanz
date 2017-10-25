@@ -100,10 +100,7 @@
         "type": "object",
         "properties": {
           "CategoryList": {
-            "type": "select",
-            "update": {
-              "type": "none"
-            }
+            "type": "select"
           }
         }
       }
