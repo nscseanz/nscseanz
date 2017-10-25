@@ -46,6 +46,11 @@
       "selector": ".floatleft",
       "control": "exists",
       "selectContains": "Viewing issues"
+    },
+    "IsReportIssue": {
+      "type": "action",
+      "selector": ".button[value='Submit Report']",
+      "control": "action.button"
     }
   },
   "connect": [
